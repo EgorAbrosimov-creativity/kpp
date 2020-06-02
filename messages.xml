@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages>
+    <message from="User 2" id="1" moment="14:48:00 06-06-2020" to="User 1">And some text</message>
+    <message from="User 1" id="2" moment="14:48:00 06-06-2020" to="User 2">hey</message>
+</messages>
+
